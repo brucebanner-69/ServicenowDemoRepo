@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="1887237083e0c3107e1fb0d6feaad3e0" extends="sn_customerservice_case" label="Custom Cases" max_length="40" name="x_842132_customs_0_custom_cases" type="collection"/>
+</database>
